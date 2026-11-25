@@ -1,6 +1,6 @@
 ### Hey, I'm Markus
 
-16, building from Finland on a 24 GB MacBook Pro.
+Building from Finland on a 24 GB MacBook Pro.
 
 Most of what I work on comes back to a few quiet questions: how does a finite mind hold onto exact truth across tens of thousands of steps without drifting? How should a reasoner rebuild its beliefs when a single premise underneath them changes? And how much real intelligence can actually live locally on your own desk instead of someone else's datacenter?
 
